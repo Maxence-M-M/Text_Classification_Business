@@ -1,3 +1,4 @@
+
 # Text_Classification_Business
 We created an idea of a company using Text Classification. 
 
@@ -11,3 +12,6 @@ After the challenge, we wanted to go deeper and create a fake company that will 
 Data = Devex_train.csv
 
 Language = Python
+
+
+<img width="337" alt="Screen Shot 2021-07-13 at 3 37 26 PM" src="https://user-images.githubusercontent.com/79336912/125514471-8272ab35-af62-48ce-ba82-5ffb158fe003.png">
